@@ -1,0 +1,24 @@
+.conteneur{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.entete ul li{
+    list-style: none;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+
+.entete{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.entete ul{
+    display: flex;
+    
+}
+
+
